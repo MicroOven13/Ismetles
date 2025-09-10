@@ -5,6 +5,7 @@ body {
     padding: 0;
     display: flex;
     justify-content: center;
+    grid-template-columns: 1fr 1fr;
 }
 
 main {
@@ -63,4 +64,3 @@ footer {
 footer p {
     margin: 10px 0;
 }
-
