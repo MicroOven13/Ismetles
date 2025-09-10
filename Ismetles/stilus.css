@@ -28,7 +28,6 @@ header h1 {
 }
 
 nav ul {
-    list-style-type: none;
     padding: 0;
 }
 
@@ -52,7 +51,6 @@ nav a:hover {
 }
 
 ul {
-    list-style-type: disc;
     margin-left: 20px;
 }
 
