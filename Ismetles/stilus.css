@@ -66,6 +66,12 @@ footer {
 footer p {
     margin: 10px 0;
 }
+article {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
 @media screen and (max-width: 200px) {
   body {
     font-size: 1.5em; 
